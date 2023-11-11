@@ -1,5 +1,7 @@
 # Number Guessing Game (C Language) by Akash (DEX)
 
+![Game Screenshot](code/image.png)
+
 Welcome to the Number Guessing Game, a simple and entertaining console-based game developed by Akash (DEX) in the C programming language. This interactive game challenges players to guess a randomly generated number within a specified range, providing a fun and engaging experience for users of all skill levels.
 
 ## How to Play
