@@ -22,7 +22,7 @@ int main()
     } while (guess != result);
 
     print(guess, result, guesses);
-
+    
     return 0;
 }
 
@@ -53,4 +53,6 @@ void print(int guess, int result, int guesses)
     printf("Total Guesses: %d", guesses);
     printf("\n");
     printf("_____________________________\n");
+    printf("Thank you for playing!!\n");
+    printf("\n");
 }
